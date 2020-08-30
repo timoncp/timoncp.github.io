@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c12e6afd.chunk.css",
-    "main.js": "/static/js/main.a76f4b97.chunk.js",
-    "main.js.map": "/static/js/main.a76f4b97.chunk.js.map",
+    "main.js": "/static/js/main.71b91f43.chunk.js",
+    "main.js.map": "/static/js/main.71b91f43.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.926641ee.chunk.js": "/static/js/2.926641ee.chunk.js",
     "static/js/2.926641ee.chunk.js.map": "/static/js/2.926641ee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.51f60f28cb60df9f0d13e792aa39a45f.js": "/precache-manifest.51f60f28cb60df9f0d13e792aa39a45f.js",
+    "precache-manifest.d0bdd50fa76eb754a198d3f201eb2e1e.js": "/precache-manifest.d0bdd50fa76eb754a198d3f201eb2e1e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c12e6afd.chunk.css.map": "/static/css/main.c12e6afd.chunk.css.map",
     "static/media/carousel-arrow-left.svg": "/static/media/carousel-arrow-left.40cca493.svg",
